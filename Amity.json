@@ -1,0 +1,53 @@
+{
+    "manifest": {
+        "version": "7.0.0",
+        "name": "nyuumiixamii",
+        "author": "nyuumii",
+        "license": "CEA"
+    },
+    "background": {
+        "overlay_alpha": 120,
+        "url": "https:\/\/media.discordapp.net\/attachments\/1088924848132206593\/1125568010103574659\/pxfuel-1.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1115287512777248798\/MinecraftRegular-Bmg3.otf"
+    },
+    "simple_colors": {
+        "active_channel": -1542052403,
+        "accent": -480899096,
+        "mention_highlight": 1028655087,
+        "background": -14935012,
+        "background_secondary": -14803426
+    },
+    "colors": {
+        "brand": -662166570,
+        "brand_new_500": -478669096,
+        "primary_dark_400": -479577637,
+        "primary_dark_360": -479577637,
+        "uikit_btn_compound_color_selector_dark": -849472577,
+        "primary_dark_300": -479577637,
+        "uikit_btn_compound_color_selector_light": 2103840680,
+        "uikit_settings_item_text_color_dark": -479577637,
+        "uikit_settings_item_text_color_light": -1118566231,
+        "abc_tint_switch_track": 1869286877,
+        "link": -244183316,
+        "link_500": -264237350,
+        "primary_dark_200": -2320385,
+        "white_500": -6085633
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -11331617,
+        "ic_sidebar_notifications_off_dark_24dp": -249165999,
+        "ic_sidebar_pins_off_dark_24dp": -11331617,
+        "ic_sidebar_pins_on_dark_24dp": -11331617,
+        "ic_thread": -11331617
+    },
+    "raws": {
+        "mute": "https:\/\/github.com\/CaioAlbuquerque123\/Retro-Theme\/raw\/main\/mute",
+        "unmute": "https:\/\/github.com\/CaioAlbuquerque123\/Retro-Theme\/raw\/main\/unmute",
+        "user_join": "https:\/\/github.com\/CaioAlbuquerque123\/Retro-Theme\/raw\/main\/user_join",
+        "user_leave": "https:\/\/github.com\/CaioAlbuquerque123\/Retro-Theme\/raw\/main\/user_leave",
+        "user_moved": "https:\/\/github.com\/CaioAlbuquerque123\/Retro-Theme\/raw\/main\/user_moved",
+        "call_ringing": "https:\/\/github.com\/CaioAlbuquerque123\/Retro-Theme\/raw\/main\/call_ringing"
+    }
+}
