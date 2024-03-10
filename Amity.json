@@ -2,45 +2,45 @@
     "manifest": {
         "version": "7.0.0",
         "name": "nyuumiixamii",
-        "author": "nyuumii",
-        "license": "CEA"
+        "author": "nyuumii"
     },
     "background": {
         "overlay_alpha": 120,
-        "url": "https:\/\/media.discordapp.net\/attachments\/1088924848132206593\/1125568010103574659\/pxfuel-1.jpg"
+        "blur_radius": 2,
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/1188358555963768883\/1216232283414069279\/Screenshot_2024-03-09-19-59-24-417_com.snapchat.a"
     },
     "fonts": {
         "*": "https:\/\/cdn.discordapp.com\/attachments\/1088924848132206593\/1115287512777248798\/MinecraftRegular-Bmg3.otf"
     },
     "simple_colors": {
-        "active_channel": -1542052403,
-        "accent": -480899096,
-        "mention_highlight": 1028655087,
+        "active_channel": -1528784487,
+        "accent": -469780810,
+        "mention_highlight": 1040168373,
         "background": -14935012,
         "background_secondary": -14803426
     },
     "colors": {
-        "brand": -662166570,
-        "brand_new_500": -478669096,
-        "primary_dark_400": -479577637,
-        "primary_dark_360": -479577637,
-        "uikit_btn_compound_color_selector_dark": -849472577,
-        "primary_dark_300": -479577637,
-        "uikit_btn_compound_color_selector_light": 2103840680,
-        "uikit_settings_item_text_color_dark": -479577637,
-        "uikit_settings_item_text_color_light": -1118566231,
-        "abc_tint_switch_track": 1869286877,
-        "link": -244183316,
-        "link_500": -264237350,
-        "primary_dark_200": -2320385,
-        "white_500": -6085633
+        "brand": -654336868,
+        "brand_new_500": -469793917,
+        "primary_dark_400": -469850458,
+        "primary_dark_360": -469851229,
+        "uikit_btn_compound_color_selector_dark": -838883931,
+        "primary_dark_300": -470242903,
+        "uikit_btn_compound_color_selector_light": 2113914566,
+        "uikit_settings_item_text_color_dark": -469783637,
+        "uikit_settings_item_text_color_light": -1107320158,
+        "abc_tint_switch_track": 1879029430,
+        "link": -234906725,
+        "link_500": -251680086,
+        "primary_dark_200": -15678,
+        "white_500": -17991
     },
     "drawable_tints": {
-        "ic_sidebar_notifications_on_dark_24dp": -11331617,
-        "ic_sidebar_notifications_off_dark_24dp": -249165999,
-        "ic_sidebar_pins_off_dark_24dp": -11331617,
-        "ic_sidebar_pins_on_dark_24dp": -11331617,
-        "ic_thread": -11331617
+        "ic_sidebar_notifications_on_dark_24dp": -21589,
+        "ic_sidebar_notifications_off_dark_24dp": -234906211,
+        "ic_sidebar_pins_off_dark_24dp": -14907,
+        "ic_sidebar_pins_on_dark_24dp": -22360,
+        "ic_thread": -343101
     },
     "raws": {
         "mute": "https:\/\/github.com\/CaioAlbuquerque123\/Retro-Theme\/raw\/main\/mute",
